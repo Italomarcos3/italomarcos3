@@ -1,4 +1,5 @@
-# 👋🏼 Opa, Eu sou o Italo, Engenheiro de Dados pela Zion tecnologs e Analista de Dados e Power BI pela TS Analitycs!:
+# 👨🏻‍💻 Italo Marcos:
+Opa, eu sou o Italo! Sou Engenheiro de Dados pela Zion Tecnologs e Analista de Dados e Power BI pela TS Analitycs. Tenho experiência em coleta, tratamento e modelagem de dados usando Python, Pandas, Spark e Databricks. Desenvolvo pipelines de dados e dashboards em Power BI, transformando informações em insights estratégicos. Tenho interesse em engenharia de dados, análise e modelagem, aplicando boas práticas para projetos de dados e BI.
 
 
 
