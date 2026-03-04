@@ -1,8 +1,8 @@
-# 👋🏼 Sobre mim:
-Opa, Eu sou o Italo, Engenheiro de Dados pela Zion tecnologs e Analista de Dados e Power BI pela TS Analitycs!
+# 👋🏼 Opa, Eu sou o Italo, Engenheiro de Dados pela Zion tecnologs e Analista de Dados e Power BI pela TS Analitycs!:
 
 
-## 🌐 Sociais:
+
+# 🌐 Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/italomarcosg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italomarcosss/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:italo.marcos3@gmail.com) 
 
 # 💻 Habilidades:
